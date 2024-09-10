@@ -4,6 +4,8 @@ Tento repozitář obsahuje všechny materiály a zdroje pro kurz **Python pro da
 
 Kurz je zaměřen na efektivní práci s daty pomocí knihovny Pandas a dalších nástrojů v Pythonu pro datovou analýzu.
 
+Odkaz na kurz: [https://kodim.cz/czechitas/python-data-1/python-pro-data-1](https://kodim.cz/czechitas/python-data-1/python-pro-data-1)
+
 ## Požadavky
 Pro účast v kurzu je potřeba mít:
 - základní znalost práce s Pythonem, na úrovni kurzu [ÚVOD DO PYTHONU](https://www.czechitas.cz/kurzy/uvod-do-pythonu)
@@ -11,7 +13,7 @@ Pro účast v kurzu je potřeba mít:
 - Python 3.8 nebo vyšší
 
 ## Podmínky pro obdržení certifikátu
-- Splnění kvízu z každé lekce na min. 70 %, kvíz musí být odevzdaný **před začátkem další lekce** (u posledního kvízu do 7 dnů). Kvíz slouží k zopakování si učiva z minulé lekce, doporučujeme si jej tedy udělat jako osvěžení si již probrané látky před následující hodinou.
+- Splnění kvízu z každé lekce, kvíz musí být odevzdaný **před začátkem další lekce** (u posledního kvízu do 7 dnů). Kvíz slouží k zopakování si učiva z minulé lekce, doporučujeme si jej tedy udělat jako osvěžení si již probrané látky před následující hodinou.
 - Účast na 70 % lekcí.
 
 
@@ -27,9 +29,9 @@ Pokyny pro instalaci najdete zde: [Instalace modulu](https://kodim.cz/analyza-da
 
 ## Harmonogram lekcí
 
-| Datum       | Téma                                                      | Notebooky                          | Kvíz / deadline
+| Datum       | Téma                                                      | Notebooky                          | Kvíz
 |-------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|
-| 16.09.2024  | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [Materiály lekce 1](notebooks/lekce-01) | [Kvíz 1](https://forms.gle/pHZWRYnKx8w6WwUz8) / 23.09.2024 17:29 |
+| 16.09.2024  | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [Materiály lekce 1](notebooks/lekce-01) | [Kvíz 1](https://forms.gle/pHZWRYnKx8w6WwUz8) |
 | 23.09.2024  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) | |
 | 30.09.2024  | Propojování tabulek, agregace dat a řazení | [Materiály lekce 3](notebooks/lekce-03) | |
 | 07.10.2024  | Vizualizace s využitím knihovny `seaborn`                   | [Materiály lekce 4](notebooks/lekce-04) | |

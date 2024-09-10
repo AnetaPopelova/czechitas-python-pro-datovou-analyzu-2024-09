@@ -1,0 +1,101 @@
+fdc_id,data_type,description,food_category_id,publication_date
+2644829,sub_sample_food,"lentils, dry",16.0,2023-10-19
+2347263,sub_sample_food,heavy cream,1.0,2022-10-28
+2261954,sub_sample_food,"Flour, potato",11.0,2022-04-28
+321470,sub_sample_food,"Salt, Iodized",2.0,2019-04-01
+322951,sub_sample_food,Hot dogs beef,7.0,2019-04-01
+2346484,sample_food,"Lettuce, iceberg, raw",11.0,2022-10-28
+330060,market_acquisition,"Greek yogurt, FAGE PLAIN NONFAT (CA2) - NFY0910IC",1.0,2019-04-01
+1754088,sub_sample_food,"OIL, PEANUT",4.0,2021-04-23
+2346855,market_acquisition,"grapes, red, seedless, fresh, raw",9.0,2022-10-28
+2351012,sub_sample_food,"Potatoes, red, without skin, raw",11.0,2022-10-28
+2004036,sub_sample_food,"flour, 00",20.0,2021-10-15
+2263313,sub_sample_food,"peanut butter, creamy",16.0,2022-04-28
+335770,agricultural_acquisition,"Beans, Dry, Small Red, 471 (0% moisture)",16.0,2019-04-01
+1754508,sub_sample_food,"OIL, PEANUT",4.0,2021-04-23
+2514742,sub_sample_food,cassava flour,11.0,2023-04-20
+2258353,sub_sample_food,"soy milk, refrigerated, sweetened",16.0,2022-04-28
+1752357,sub_sample_food,"ALMOND MILK, UNSWEETENED, PLAIN, SHELF STABLE",14.0,2021-04-23
+2514917,sub_sample_food,"Beef, ground, grass-fed, 90% lean, 10% fat, raw",13.0,2023-04-20
+2004374,sub_sample_food,"flour, semolina, fine",20.0,2021-10-15
+331757,sub_sample_food,"Riboflavin, Chicken, skin, raw, from drumsticks and thighs, enhanced (OK1,MI1) - 14B-01-06-B2",5.0,2019-04-01
+2643776,sub_sample_food,"sorghum, flour",,2022-11-16
+2349948,sub_sample_food,"Cherries, dark red, sweet, raw",9.0,2022-10-28
+321563,market_acquisition,"BEANS, SNAP, CANNED, DRAINED, STORE BRAND",11.0,2019-04-01
+2003754,sample_food,"ORANGE JUICE, REFRIGERATED, NO PULP, NOT FORTIFIED",9.0,2021-10-15
+2648500,sub_sample_food,"monterey jack cheese, block",1.0,2023-10-19
+2351006,sub_sample_food,"Potatoes, red, without skin, raw",11.0,2022-10-28
+2261661,sub_sample_food,"Flour, whole grain oat",20.0,2022-04-28
+2260203,sub_sample_food,"Yogurt, Greek, whole milk, plain",1.0,2022-04-28
+331390,sub_sample_food,"Selenium, Chicken, skin, raw, from drumsticks and thighs, non-enhanced (FL1,MO1,NY1) - 14B-01-04-Se",5.0,2019-04-01
+2348279,sub_sample_food,"Lettuce, leaf, green, raw",11.0,2022-10-28
+1751190,sub_sample_food,"ALMOND MILK, UNSWEETENED, PLAIN, SHELF STABLE",14.0,2021-04-23
+2004789,sub_sample_food,"GRAPE JUICE, PURPLE, FROM CONCENTRATE WITH ADDED VITAMIN C, SHELF STABLE",9.0,2021-10-15
+2350284,sub_sample_food,"Pineapple, raw",9.0,2022-10-28
+2258285,sub_sample_food,"oat milk, refrigerated, unsweetened",14.0,2022-04-28
+2347294,sub_sample_food,heavy cream,1.0,2022-10-28
+2515537,market_acquisition,chestnut flour,12.0,2023-04-20
+2352191,sub_sample_food,"grapes, red, seedless, fresh, raw",9.0,2022-10-28
+1756548,sub_sample_food,"SPINACH, REGULAR (MATURE)",11.0,2021-04-23
+1757140,sub_sample_food,"MUSHROOMS, WHITE BUTTON",11.0,2021-04-23
+1754858,sub_sample_food,"OIL, SUNFLOWER",4.0,2021-04-23
+335751,agricultural_acquisition,"Beans, Dry, Small Red, 646 (0% moisture)",16.0,2019-04-01
+2349431,sub_sample_food,"Oats, whole grain, steel cut",20.0,2022-10-28
+327875,sample_food,"Romaine Lettuce, Region 3, Pure Composite, CY0104X",11.0,2019-04-01
+2347402,sub_sample_food,"sour cream, full fat",1.0,2022-10-28
+2647605,sub_sample_food,cotija (solid),1.0,2023-10-19
+2263423,sub_sample_food,ground flaxseed meal,12.0,2022-04-28
+2647809,sub_sample_food,"American pasteurized process cheese food, sliced, individually wrapped",1.0,2023-10-19
+327076,sub_sample_food,"Cantaloupe, raw, Region 3, n/a, Yes - Riboflavin,  NF0009HG",9.0,2019-04-01
+2259344,sub_sample_food,"carrots, mature, raw",11.0,2022-04-28
+1753686,sub_sample_food,"MUSHROOMS, OYSTER",11.0,2021-04-23
+328069,sub_sample_food,"Fatty Acids, Cheddar cheese, sliced, store brand, CRYSTAL FARMS & SHULLSBURG WISCONSIN (MO,NY) - NFY120DE4",1.0,2019-04-01
+323093,sub_sample_food,Hot dogs beef,7.0,2019-04-01
+2514498,sub_sample_food,"rye, flour",20.0,2023-04-20
+2514161,sub_sample_food,"buckwheat, flour",20.0,2023-04-20
+2515797,sub_sample_food,coconut flour,12.0,2023-04-20
+2514344,sub_sample_food,"buckwheat, whole grain",20.0,2023-04-20
+2645945,sub_sample_food,"beans, kidney, dark red, canned, sodium added, sugar added",16.0,2023-10-19
+790665,sub_sample_food,"BANANAS, OVERRIPE",9.0,2020-04-01
+2003322,sub_sample_food,"MUSHROOMS, OYSTER",11.0,2021-10-15
+2004725,sub_sample_food,"GRAPE JUICE, PURPLE, FROM CONCENTRATE WITH ADDED VITAMIN C, SHELF STABLE",9.0,2021-10-15
+325867,sub_sample_food,"Pantothenic Acid, White bread, SARA LEE SOFT AND SMOOTH CLASSIC WHOLE (AL1,CA1) - NFY0907PX",18.0,2019-04-01
+2003818,sample_food,"TOMATO JUICE, SHELF STABLE, FROM CONCENTRATE, WITH ADDED INGREDIENTS",11.0,2021-10-15
+321647,sub_sample_food,"Vitamin C, Broccoli, raw (CO2,CT1) - NFY0904JW",11.0,2019-04-01
+2513863,sub_sample_food,"sorghum, flour",20.0,2023-04-20
+333389,sub_sample_food,"Minerals, Pollock, raw (OK) - NFY060DM3",15.0,2019-04-01
+2516370,sub_sample_food,coconut flour,12.0,2023-04-20
+332636,market_acquisition,"OLIVES, GREEN MANZANILLA STUFFED WITH PIMENTOS, STORE BRAND",9.0,2019-04-01
+327756,sub_sample_food,"Romaine Lettuce, Pass 2, Region 4 - Vitamin B6 - NFY0105IK",11.0,2019-04-01
+323199,sub_sample_food,Almonds dry roasted salted,12.0,2019-04-01
+2006800,sub_sample_food,"mushrooms, crimini",11.0,2021-10-15
+2259010,sub_sample_food,"peppers, bell, red, raw",11.0,2022-04-28
+2007359,sub_sample_food,"mushrooms, crimini",11.0,2021-10-15
+2513979,sub_sample_food,"buckwheat, whole grain",20.0,2023-04-20
+328254,market_acquisition,"Cheese, cheddar, natural shredded sharp, KRAFT (AZ1) NFY120WN4",1.0,2019-04-01
+2347802,sub_sample_food,"cream cheese, block, full fat",1.0,2022-10-28
+1757057,sub_sample_food,"TOMATOES, ROMA",11.0,2021-04-23
+747509,sub_sample_food,Ketchup,11.0,2019-12-16
+747281,sub_sample_food,American cheese,1.0,2019-12-16
+2646778,sub_sample_food,"chicken, breast, boneless, skinless",5.0,2023-10-19
+322912,market_acquisition,"HOT DOGS, BEEF, BALL PARK ANGUS",7.0,2019-04-01
+1751660,sub_sample_food,"SOY MILK, UNSWEETENED, PLAIN, SHELF STABLE",16.0,2021-04-23
+2001280,sub_sample_food,"SOY MILK, UNSWEETENED, PLAIN, SHELF STABLE",16.0,2021-10-15
+2645028,sub_sample_food,"beans, navy, canned, sodium added",16.0,2023-10-19
+2350445,sub_sample_food,"Potatoes, russet, without skin, raw",11.0,2022-10-28
+2351685,sub_sample_food,"strawberries, fresh, raw",9.0,2022-10-28
+748345,sub_sample_food,Soybean oil,4.0,2019-12-16
+2644557,sub_sample_food,"beans, black, canned, sodium added",16.0,2023-10-19
+328680,market_acquisition,"Cottage cheese, 2% milkfat, BREAKSTONE (AL1) - NFY120BST",1.0,2019-04-01
+1756967,sub_sample_food,"TOMATOES, ROMA",11.0,2021-04-23
+2645055,sub_sample_food,"beans, navy, canned, sodium added",16.0,2023-10-19
+332126,sub_sample_food,"Minerals, Sauce, pasta, PREGO 100% Natural Italian, Traditional, bottled spaghetti sauce (CA1) - NFY0904VJ",6.0,2019-04-01
+323481,sub_sample_food,Kale,11.0,2019-04-01
+2003020,sub_sample_food,"MUSHROOMS, SHIITAKE",11.0,2021-10-15
+2512811,sub_sample_food,"buckwheat, whole grain",20.0,2023-04-20
+335616,agricultural_acquisition,"Beans, Dry, Pinto, 678 (0% moisture)",16.0,2019-04-01
+2260615,sub_sample_food,"Yogurt, whole milk, plain",1.0,2022-04-28
+2646468,sub_sample_food,"chicken, breast, boneless, skinless",5.0,2023-10-19
+2647032,sub_sample_food,"pork, loin, boneless",10.0,2023-10-19
+2349564,sub_sample_food,"Oats, whole grain, rolled, old fashioned",20.0,2022-10-28
+328565,market_acquisition,"Cheese, cheddar, mild, block/chunk, store brand, KROGER  (CA2) NFY120XCN",1.0,2019-04-01

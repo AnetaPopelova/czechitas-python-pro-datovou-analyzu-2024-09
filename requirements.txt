@@ -1,0 +1,27 @@
+# Jak použít requirements.txt
+# Uložte soubor requirements.txt do kořenového adresáře vašeho projektu. Toto je standardní umístění, kde se obvykle nachází tento soubor.
+# Otevřete terminál nebo příkazovou řádku. Ujistěte se, že jste ve správném adresáři (tam, kde je uložen soubor requirements.txt).
+# Spusťte instalaci knihoven pomocí pip. 
+
+# Použijte následující příkaz:
+
+# Pro Windows:
+# pip install -r requirements.txt
+
+# Pro MacOS/Linux:
+# pip3 install -r requirements.txt
+
+# Tento příkaz nainstaluje všechny knihovny uvedené v requirements.txt do vašeho Python prostředí.
+# Počkejte, až se instalace dokončí. Tento proces může chvíli trvat v závislosti na počtu a velikosti knihoven, které instalujete.
+
+# Ověření instalace. 
+
+# Po dokončení instalace můžete ověřit, zda byly všechny knihovny správně nainstalovány. 
+# To lze udělat importem knihoven v Python terminálu nebo skriptu, jak bylo zmíněno v předchozím návodu.
+# Použití requirements.txt je efektivní způsob, jak zajistit, že každý, kdo pracuje na projektu, má přesně stejné verze knihoven, což pomáhá předcházet problémům spojeným s nekompatibilitou verzí.
+
+
+pandas==1.4.2
+matplotlib==3.5.1
+requests==2.27.1
+seaborn==0.11.2

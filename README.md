@@ -27,11 +27,11 @@ Pokyny pro instalaci najdete zde: [Instalace modulu](https://kodim.cz/analyza-da
 
 ## Harmonogram lekcí
 
-| Datum       | Téma                                                      | Odkaz na materiály                          |
-|-------------|-----------------------------------------------------------|---------------------------------------------|
-| 16.09.2024  | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [Materiály lekce 1](notebooks/lekce-01) |
-| 23.09.2024  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) |
-| 30.09.2024  | Propojování tabulek, agregace dat a řazení | [Materiály lekce 3](notebooks/lekce-03) |
-| 07.10.2024  | Vizualizace s využitím knihovny `seaborn`                   | [Materiály lekce 4](notebooks/lekce-04) |
-| 14.10.2024  | Pivot tabulky, Datum a čas, metoda `shift`                 | [Materiály lekce 5](notebooks/lekce-05) |
-| 21.10.2024  | Projekt + Datová analýza s využitím AI nástrojů                     | [Materiály lekce 6](notebooks/lekce-06) |
+| Datum       | Téma                                                      | Notebooky                          | Kvíz / deadline
+|-------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|
+| 16.09.2024  | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [Materiály lekce 1](notebooks/lekce-01) | [Kvíz 1](https://forms.gle/pHZWRYnKx8w6WwUz8) / 23.09.2024 17:29 |
+| 23.09.2024  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) | |
+| 30.09.2024  | Propojování tabulek, agregace dat a řazení | [Materiály lekce 3](notebooks/lekce-03) | |
+| 07.10.2024  | Vizualizace s využitím knihovny `seaborn`                   | [Materiály lekce 4](notebooks/lekce-04) | |
+| 14.10.2024  | Pivot tabulky, datum a čas, metoda `shift`                 | [Materiály lekce 5](notebooks/lekce-05) | |
+| 21.10.2024  | Projekt + Datová analýza s využitím AI nástrojů                     | [Materiály lekce 6](notebooks/lekce-06) | |

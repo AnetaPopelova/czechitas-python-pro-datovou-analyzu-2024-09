@@ -1,10 +1,10 @@
-fdc_id,nutrient_id,amount,data_points,derivation_id,min,max,median,loq,footnote,min_year_acquired,name,unit_name
-1048385,1092,101770.0,,70.0,,,,,,,"Potassium, K",MG
-1527945,1092,176991.0,,70.0,,,,,,,"Potassium, K",MG
-944746,1093,282828.0,,70.0,,,,,,,"Sodium, Na",MG
-1599725,1093,323944.0,,70.0,,,,,,,"Sodium, Na",MG
-1982925,1093,203125.0,,70.0,,,,,,,"Sodium, Na",MG
-2149015,1093,415625.0,,70.0,,,,,,,"Sodium, Na",MG
-2465074,1093,528986.0,,70.0,,,,,,,"Sodium, Na",MG
-2472749,1093,857143.0,,70.0,,,,,,,"Sodium, Na",MG
-2495397,1093,183333.0,,70.0,,,,,,,"Sodium, Na",MG
+,fdc_id,nutrient_id,amount,data_points,derivation_id,min,max,median,loq,footnote,min_year_acquired,name,unit_name
+18231,1048385,1092,101770.0,,70.0,,,,,,,"Potassium, K",MG
+18888,1527945,1092,176991.0,,70.0,,,,,,,"Potassium, K",MG
+63254,944746,1093,282828.0,,70.0,,,,,,,"Sodium, Na",MG
+65700,1599725,1093,323944.0,,70.0,,,,,,,"Sodium, Na",MG
+67418,1982925,1093,203125.0,,70.0,,,,,,,"Sodium, Na",MG
+68232,2149015,1093,415625.0,,70.0,,,,,,,"Sodium, Na",MG
+69486,2465074,1093,528986.0,,70.0,,,,,,,"Sodium, Na",MG
+69528,2472749,1093,857143.0,,70.0,,,,,,,"Sodium, Na",MG
+69647,2495397,1093,183333.0,,70.0,,,,,,,"Sodium, Na",MG

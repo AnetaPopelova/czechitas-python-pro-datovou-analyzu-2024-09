@@ -32,8 +32,8 @@ Pokyny pro instalaci najdete zde: [Instalace modulu](https://kodim.cz/analyza-da
 | Datum       | Téma                                                      | Notebooky                          | Kvíz
 |-------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------------|
 | 16.09.2024  | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [Materiály lekce 1](notebooks/lekce-01) | [Kvíz 1](https://forms.gle/pHZWRYnKx8w6WwUz8) |
-| 23.09.2024  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) | [Kvíz 2](https://forms.gle/3XVoLEh8mqv4D8nf7)|
-| 30.09.2024  | Propojování tabulek, agregace dat a řazení | [Materiály lekce 3](notebooks/lekce-03) | |
-| 07.10.2024  | Vizualizace s využitím knihovny `seaborn`                   | [Materiály lekce 4](notebooks/lekce-04) | |
-| 14.10.2024  | Pivot tabulky, datum a čas, metoda `shift`                 | [Materiály lekce 5](notebooks/lekce-05) | |
-| 21.10.2024  | Projekt + Datová analýza s využitím AI nástrojů                     | [Materiály lekce 6](notebooks/lekce-06) | |
+| 23.09.2024  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) | [Kvíz 2](https://forms.gle/3XVoLEh8mqv4D8nf7) |
+| 30.09.2024  | Propojování tabulek, agregace dat a řazení                    | [Materiály lekce 3](notebooks/lekce-03) | [Kvíz 3](https://forms.gle/MS2GiLKwzsDz1pQB7) |
+| 07.10.2024  | Vizualizace s využitím knihovny `seaborn`                     | [Materiály lekce 4](notebooks/lekce-04) | |
+| 14.10.2024  | Pivot tabulky, datum a čas, metoda `shift`                    | [Materiály lekce 5](notebooks/lekce-05) | |
+| 21.10.2024  | Projekt + Datová analýza s využitím AI nástrojů               | [Materiály lekce 6](notebooks/lekce-06) | |

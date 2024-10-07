@@ -1,5 +1,5 @@
 # Tahák `pandas`
-
+  
 ## Import pandas
 ```py
 import pandas as pd
@@ -21,10 +21,9 @@ excel_dataframe = pd.read_excel("nazev_souboru.xlsx", sheet_name="list1")
 
 ### Další parametry při načítání CSV
 ```py
-novy_dataframe = pd.read_csv("nazev_souboru.csv", sep=";", na_values=["?"])
+novy_dataframe = pd.read_csv("nazev_souboru.csv", sep=";")
 ```
 - `sep=";"` – pro soubory oddělené středníkem
-- `na_values=["?"]` – pro označení hodnot "?" jako NaN
 
 ## Index
 ```py

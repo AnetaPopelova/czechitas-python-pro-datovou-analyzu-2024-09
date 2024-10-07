@@ -70,15 +70,44 @@ filtrovany_dataframe = muj_dataframe[muj_dataframe["Nazev sloupce"] > 100] # pod
 filtrovany_dataframe = muj_dataframe[(muj_dataframe["sloupec1"] > 50) & (muj_dataframe["sloupec2"] == "hodnota")] 
 ```
 
+## Spojování dat (Concat)
+```py
+# Svislé spojení (appendování řádků)
+svisle_slouceni = pd.concat([df1, df2], axis=0)
+
+# Vodorovné spojení (spojení sloupců)
+vodorovne_slouceni = pd.concat([df1, df2], axis=1)
+```
+
+## Spojování dat (Merge)
+```py
+# Levé spojení (left join) podle společného sloupce
+slouceny_dataframe = pd.merge(df1, df2, on="spolecny_sloupec", how="left")
+
+# Pravé spojení (right join)
+slouceny_dataframe = pd.merge(df1, df2, on="spolecny_sloupec", how="right")
+
+# Vnitřní spojení (inner join)
+slouceny_dataframe = pd.merge(df1, df2, on="spolecny_sloupec", how="inner")
+
+# Vnější spojení (outer join)
+slouceny_dataframe = pd.merge(df1, df2, on="spolecny_sloupec", how="outer")
+```
+
 ## Skupinové operace a agregace
 ```py
 muj_dataframe.groupby("Nazev sloupce").mean() # průměrné hodnoty pro každou skupinu
 muj_dataframe.groupby("Nazev sloupce")["jiny_sloupec"].sum() # suma v jiném sloupci podle skupin
 ```
 
-## Spojování dat (Merge)
+## Agregace pomocí `agg()`
 ```py
-slouceny_dataframe = pd.merge(df1, df2, on="spolecny_sloupec", how="left") # levé spojení dvou DataFrame
+# Použití různých agregací pro různé sloupce
+agregovany_dataframe = muj_dataframe.groupby("Nazev_skupiny").agg({
+    "sloupec1": "sum", 
+    "sloupec2": ["min", "max"],
+    "sloupec3": "mean"
+})
 ```
 
 ## Práce s chybějícími hodnotami
@@ -86,4 +115,16 @@ slouceny_dataframe = pd.merge(df1, df2, on="spolecny_sloupec", how="left") # lev
 muj_dataframe.isna().sum() # počet chybějících hodnot v každém sloupci
 muj_dataframe.fillna(0) # nahradí chybějící hodnoty nulami
 muj_dataframe.dropna() # odstraní všechny řádky s chybějícími hodnotami
+```
+
+## Pivot tabulka
+```py
+# Vytvoření pivot tabulky
+kontingencni_tabulka = pd.pivot_table(muj_dataframe, values="hodnota", index="index_sloupec", columns="sloupec", aggfunc="sum")
+```
+
+## Crosstab (Kontingenční tabulka)
+```py
+# Crosstab mezi dvěma kategoriemi
+kontingencni_tabulka = pd.crosstab(muj_dataframe["sloupec1"], muj_dataframe["sloupec2"])
 ```

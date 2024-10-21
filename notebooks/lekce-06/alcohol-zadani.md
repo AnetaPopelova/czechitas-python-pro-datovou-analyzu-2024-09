@@ -1,6 +1,8 @@
 
 # Vliv alkoholu na výkonnost studentů
 
+Data: [Stats_survey.csv](data/Stats_survey.csv)
+
 ## Cíl analýzy
 Zjistit, jak konzumace alkoholu ovlivňuje akademické výsledky studentů. 
 
